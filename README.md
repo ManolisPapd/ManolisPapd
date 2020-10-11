@@ -7,7 +7,10 @@ I'm a Software Developer using primarly Java, JavaScript and Python.
 
 
 <p align="left"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-wordmark.svg" alt="java" width="25" height="25"/>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-java-plain-wordmark"></i>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 </p>
