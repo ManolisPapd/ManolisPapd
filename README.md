@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer using primarly Java professionally and enjoying working wiht JavaScript and Python as well.
+I'm a Software Developer using primarly Java professionally and enjoying working with JavaScript and Python as well.
 
 You can fine me on:
 - [Portfolio](https://manolis-papadimitriou.com/)
