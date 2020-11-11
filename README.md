@@ -20,5 +20,9 @@ You can fine me on:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="35" height="35"/>
 </p>
 
+### :zap: GitHub Stats
+
+  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ManolisPapd&show_icons=true&hide_border=true" />
+
 [linkedin]: https://www.linkedin.com/in/manolis-papadimitriou/
 [stackoverflow]: https://stackoverflow.com/users/2606441/manolis-pap
