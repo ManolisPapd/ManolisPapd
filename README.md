@@ -26,9 +26,8 @@ You can find me on:
   <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ManolisPapd&show_icons=true&hide_border=true" />
 
 <br/>
-<a href="https://github.com/ManolisPapd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&layout=compact" />
-</a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&layout=compact&theme=gotham" />
 
 <br/>
 
