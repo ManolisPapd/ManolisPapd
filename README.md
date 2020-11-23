@@ -27,7 +27,7 @@ You can find me on:
 
 <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&layout=compact&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&hide=QML,TeX,HTML&langs_count=8&exclude_repo=IDEddit,MSc_Repo&layout=compact&theme=gotham" />
 
 <br/>
 
