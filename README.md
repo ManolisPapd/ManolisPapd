@@ -23,7 +23,7 @@ You can find me on:
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ManolisPapd&show_icons=true&hide_border=true&theme=gruvbox" />
+  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ManolisPapd&show_icons=true&hide_border=true" />
 
 <br/>
 
