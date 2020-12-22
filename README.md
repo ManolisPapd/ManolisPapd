@@ -19,6 +19,7 @@ You can find me on:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+
 </p>
 
 ### :zap: GitHub Stats
@@ -30,6 +31,10 @@ You can find me on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&hide=QML,TeX,HTML&langs_count=8&exclude_repo=IDEddit,MSc_Repo&layout=compact&theme=gotham" />
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManolisPapd" />
+<br/>
+
 
 [linkedin]: https://www.linkedin.com/in/manolis-papadimitriou/
 [stackoverflow]: https://stackoverflow.com/users/2606441/manolis-pap
