@@ -1,6 +1,6 @@
 # Hi, I'm Manolis 👋
 
-📍 Athens, Greece &nbsp;|&nbsp; ☕ Senior Software Engineer &nbsp;|&nbsp; 
+📍 Athens, Greece &nbsp;|&nbsp;  Senior Software Engineer &nbsp;&nbsp; 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -11,13 +11,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-> 7+ years building distributed systems across health informatics, telecom, EU institutional platforms, and fintech. I like APIs that scale, caches that hit, and queues that don't lag.
+> 7+ years building distributed systems across health informatics, telecom, EU institutional platforms, and fintech.
 
 ---
 
-### 🔨 Side Projects
+### 🔨 Projects
 
-- 
+- [envpromote](https://github.com/ManolisPapd/envpromote) - Inspect commits across all your service repos and promote exactly the versions you want.
 
 ---
 
