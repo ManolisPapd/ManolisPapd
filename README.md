@@ -1,39 +1,28 @@
-### Hi there 👋
+# Hi, I'm Manolis 👋
 
-I'm a Software Developer using primarly Java professionally.
+📍 Athens, Greece &nbsp;|&nbsp; ☕ Senior Software Engineer &nbsp;|&nbsp; 
 
-<!-- - [Portfolio](https://manolis-papadimitriou.com/) -->
-- [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-- [<img alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+> 7+ years building distributed systems across health informatics, telecom, EU institutional platforms, and fintech. I like APIs that scale, caches that hit, and queues that don't lag.
 
-### Technology Stack:
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/java/java-original.svg" alt="java" width="35" height="35"/>
-<img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/oracle/oracle-original.svg" alt="oracle" width="35" height="35"/> 
-<img alt="MongoDB" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+---
 
-</p>
+### 🔨 Side Projects
 
-### :zap: GitHub Stats
+- 
 
-  <img align="left" alt="Eresh's GitHub Stats" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=ManolisPapd&show_icons=true&hide_border=true" />
-
-<br/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManolisPapd&hide=QML,TeX,HTML&langs_count=8&exclude_repo=IDEddit,MSc_Repo&layout=compact&theme=gotham" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManolisPapd" />
-<br/>
+---
 
 
-[linkedin]: https://www.linkedin.com/in/manolis-papadimitriou/
-[stackoverflow]: https://stackoverflow.com/users/2606441/manolis-pap
+### 🔗 Find me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manolis-papadimitriou/)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/2606441/manolis-pap)
