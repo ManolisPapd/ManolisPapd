@@ -23,6 +23,8 @@ Value over elegance.
 
 - 🔼 [envpromote](https://github.com/ManolisPapd/envpromote) - Inspect commits across all your service repos and promote exactly the versions you want.
 - 📺 [ShowKeeper](https://github.com/ManolisPapd/ShowKeeper) - Track the progress of your favorite TV Shows.
+- 🎬 [SceneSwitcher](https://github.com/ManolisPapd/SceneSwitcher) - Windows application that switches your PC between configured scenes, monitor setup, HDR, audio, game launcher handling (Steam, Playnite) and more, in one click.
+
 ---
 
 
