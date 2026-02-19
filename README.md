@@ -2,6 +2,10 @@
 
 📍 Athens, Greece &nbsp;|&nbsp;  Senior Software Engineer &nbsp;&nbsp; 
 
+Solving problems across domains. No problem too niche, no codebase too unfamiliar.
+
+Value over elegance.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
