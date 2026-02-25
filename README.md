@@ -27,6 +27,10 @@ Value over elegance.
 
 ---
 
+### 🔧 Open Source Contributions
+- [Testcontainers Port Updater](https://github.com/yusufugurozbek/testcontainers-port-updater/commits/main/?author=ManolisPapd)
+---
+
 
 ### 🔗 Find me
 
